@@ -1,0 +1,51 @@
+**DECODE**
+DEtection of COgnitive Distortions in Expressions
+
+DECODE (Detection of Cognitive Distortions in Expressions) is an NLP-based classification project 
+designed to automatically detect cognitive distortions in patient questions or statements. 
+The goal of this project is to support mental health applications by identifying distorted thinking patterns in text, 
+such as overgeneralization, catastrophizing, or mind reading, which are common in cognitive-behavioral therapy (CBT) contexts.
+This project explores and compares multiple text representation techniques and classifiers to get an overview of the best results.
+
+------------------------------------------------------------
+1. Installation Instructions
+------------------------------------------------------------
+
+Before running the code, ensure that the following Python packages are installed.
+
+Required Packages:
+	```
+	
+	pandas  
+	numpy  
+	matplotlib  
+	seaborn  
+	scikit-learn  
+	scipy  
+	nltk  
+	spacy  
+	torch  
+	transformers   
+	shap  
+	gensim  
+	wordcloud  
+	
+	```
+
+------------------------------------------------------------
+2. How to Run
+------------------------------------------------------------
+Place the dataset (Annotated_data.csv) in the following path:	
+
+			/content/drive/My Drive/DECODE/Annotated_data.csv
+For Colab, ensure to mount Google Drive and adjust file paths accordingly.
+
+------------------------------------------------------------
+3. Author
+------------------------------------------------------------
+
+Project developed by Susanna Mazzocchi
+Artificial Intelligence Student, University of Pavia
+
+------------------------------------------------------------
+
