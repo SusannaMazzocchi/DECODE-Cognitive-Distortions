@@ -22,7 +22,6 @@ Using the "Therapist Q&A" dataset from Kaggle, the main objective of this projec
 ## ✨ Features
 * **Binary Text Classification:** A fully trained pipeline that reads counselling dialogues and flags the presence of irrational thinking.
 * **Fine-Tuned NLP Models:** I didn't just use basic algorithms; I worked with powerful Transformer models to truly understand the context of the psychological texts.
-* **Complete Repository:** I've included the original dataset, a `trained_models` folder with the exported results, and the full project report so you can dive deep into the theory and results!
 
 --------
 
@@ -48,6 +47,6 @@ If I continue working on DECODE, I would love to:
 
 ## ▶️ How to run the project
 I developed the entire code on Google Colab to make it easily accessible. 
-Instead of a long list of instructions here, **please read the `requirements` file**. Inside, you will find everything you need to know to run the `DECODE.ipynb` notebook, install the right dependencies, and load the dataset and `trained_models` correctly! 
+Instead of a long list of instructions here, **please read the `requirements` file**. Inside, you will find everything you need to know to run the `DECODE.ipynb` notebook, install the right dependencies, and load the dataset correctly! 
 
-📄 *For a deeper look into the design choices, model comparisons, and mathematical metrics, please read the included full report: `[TMNLP 2024-2025] DECODE report.pdf`.*
+📄 *For a deeper look into the design choices, model comparisons, and mathematical metrics, please read the included full report: `DECODE report.pdf`.*
